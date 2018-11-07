@@ -1,0 +1,13 @@
+body 
+{
+ margin-left: 10%;
+ margin-rgiht:10%;
+}
+img
+{
+width:175px;
+height:175px;
+position:absolute;
+right: 10%;
+top: 0;
+} 
